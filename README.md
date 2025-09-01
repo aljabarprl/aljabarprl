@@ -81,10 +81,6 @@ I focus on creating seamless system integrations and building user-centered digi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljabarprl&theme=github_dark&hide_border=true" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljabarprl&theme=github_dark&hide_border=true&layout=compact&count_private=true" height="180px" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies  
