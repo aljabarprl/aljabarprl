@@ -14,7 +14,7 @@ I focus on creating seamless system integrations and building user-centered digi
 
 ## 📬 Contact Me  
 - 📧 Email: **aljabarprl@gmail.com**  
-- 🌐 Portfolio: [My Portfolio](#https://aljabarportfolio.web.app/)  
+- 🌐 Portfolio: [My Portfolio](https://aljabarportfolio.web.app/)  
 
 ---
 
