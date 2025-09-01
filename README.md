@@ -7,7 +7,7 @@
 
 ## 🎯 About Me  
 
-I am Aljabar, a passionate developer specializing in **Scripting API**, **Backend Development**, and **UI/UX Design**.  
+I am Aljabar, a passionate developer specializing in **Scripting API**, **Web Backend Development**, and **UI/UX Design**.  
 I focus on creating seamless system integrations and building user-centered digital experiences.  
 
 ---
@@ -78,7 +78,6 @@ I focus on creating seamless system integrations and building user-centered digi
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aljabarprl&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aljabarprl&theme=github_dark&hide_border=true" height="180px" />
 </p>
 
