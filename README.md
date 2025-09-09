@@ -101,3 +101,5 @@ I focus on creating seamless system integrations and building user-centered digi
 > — **Michael Townley**
 
 ---
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xirlasjsz5zcchdcelu4jbiyci&unique={true|1|on|yes})
