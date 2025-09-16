@@ -65,7 +65,7 @@ I focus on creating seamless system integrations and building user-centered digi
 ![CLEO RDX](https://img.shields.io/badge/Cleo%20Redux-444444?style=for-the-badge&logo=gnubash&logoColor=white)
 ![IMG Tool](https://img.shields.io/badge/IMG%20Tool-FF6F00?style=for-the-badge&logo=files&logoColor=white)
 
-### 🔹 Other
+### 🔹 Other (Learning Stage)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PhpmyAdmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
