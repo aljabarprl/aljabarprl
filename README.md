@@ -7,7 +7,7 @@
 
 ## 🎯 About Me  
 
-I am Aljabar, a passionate developer specializing in **Scripting API**, **Web Backend Development**, and **UI/UX Design**.  
+I am Aljabar, a passionate developer specializing in **Scripting API**, **Web Development**, and **UI/UX Design**.  
 I focus on creating seamless system integrations and building user-centered digital experiences.  
 
 ---
