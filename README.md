@@ -86,7 +86,7 @@ I focus on creating seamless system integrations and building user-centered digi
 </p>
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aljabarprl&layout=compact)](https://github.com/aljabarprl)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljabarprl&layout=compact" height="180px" />
 </p>
 
 ---
