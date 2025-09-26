@@ -13,8 +13,8 @@ I focus on creating seamless system integrations and building user-centered digi
 ---
 
 ## 📬 Contact Me  
-- 📧 Email: **aljabarprl@gmail.com**  
-- 🌐 Portfolio: [My Portfolio](https://aljabarportfolio.web.app/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](**aljabarprl@gmail.com**)
+[![My portfolio](https://img.shields.io/badge/my%20portfolio-0285FF?style=for-the-badge&logo=minecraft&logoColor=white)](https://aljabarportfolio.web.app)
 
 ---
 
