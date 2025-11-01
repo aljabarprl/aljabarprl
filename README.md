@@ -46,6 +46,7 @@ I focus on creating seamless system integrations and building user-centered digi
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel Functions](https://img.shields.io/badge/vercel%20function-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🔹 Scripting API  
