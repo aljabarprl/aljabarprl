@@ -46,6 +46,7 @@ I focus on creating seamless system integrations and building user-centered digi
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel Functions](https://img.shields.io/badge/vercel%20function-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🔹 Scripting API  
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -77,7 +78,6 @@ I focus on creating seamless system integrations and building user-centered digi
 
 ### 🔹 Other (Learning Stage)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Vercel Functions](https://img.shields.io/badge/vercel%20function-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
