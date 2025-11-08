@@ -27,8 +27,8 @@ I focus on creating seamless system integrations and building user-centered digi
 ## 💻 Skills
 
 ### 🔹 Web App Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JSX](https://img.shields.io/badge/JSX-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TSX](https://img.shields.io/badge/TSX-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -50,6 +50,8 @@ I focus on creating seamless system integrations and building user-centered digi
 ![Vercel Functions](https://img.shields.io/badge/vercel%20function-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🔹 Scripting API  
+![Pawn](https://img.shields.io/badge/Pawn-E0C9A5?style=for-the-badge&logo=chessdotcom&logoColor=black)
+![Luau](https://img.shields.io/badge/luaU-%232C2D72.svg?style=for-the-badge&logo=luau&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -78,12 +80,14 @@ I focus on creating seamless system integrations and building user-centered digi
 ![IMG Tool](https://img.shields.io/badge/IMG%20Tool-FF6F00?style=for-the-badge&logo=files&logoColor=white)
 
 ### 🔹 Other (Learning Stage)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=serverfault&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23000000?style=for-the-badge&logo=fastapi)
 ![Pytest](https://img.shields.io/badge/pytest-%23000000.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Fortran Badge](https://img.shields.io/badge/Fortran-7539C2?style=for-the-badge&logo=fortran&logoColor=white)
+![Lisp Badge](https://img.shields.io/badge/Lisp-%23000000?style=for-the-badge&logo=commonlisp&logoColor=red)
  
 
 ---
