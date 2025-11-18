@@ -100,7 +100,7 @@ I focus on creating seamless system integrations and building user-centered digi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljabarprl&layout=compact&langs_count=100&theme=github_dark&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aljabarprl&layout=compact&langs_count=16&theme=github_dark&hide_border=true" height="180px" />
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aljabarprl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=github_dark&hide_border=true&order=2" height="120" alt="languages graph"  /> -->
 </p>
 
