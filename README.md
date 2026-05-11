@@ -3,7 +3,7 @@
 </p>
 
 ## Hi, I'm Aljabar
-I am Aljabar, a passionate developer specializing in **Scripting API**, **Web Development**, and **UI/UX Design**. I focus on creating seamless system integrations and building user-centered digital experiences.  
+I am Aljabar, a passionate developer specializing in **Scripting API** and **Backend Development**. I focus on creating seamless system integrations and building user-centered digital experiences.  
 
 ---
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
